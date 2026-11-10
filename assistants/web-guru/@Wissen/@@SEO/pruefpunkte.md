@@ -11,7 +11,7 @@ Sechs Bereiche, je mit Prüfpunkten, woher der Befund kommt und Richtwert. Was o
 | 🔴 | Befund, der Auffinden oder Vertrauen ernsthaft verhindert (z. B. `noindex` auf der Startseite, kein HTTPS, kein Unternehmensprofil bei einem lokalen Betrieb) |
 | ⚪ | nicht geprüft (Grund nennen) |
 
-Priorität einer Maßnahme: **hoch** (🔴-Befund oder großer Nutzen bei kleinem Aufwand), **mittel**, **niedrig**. Quick Wins = hoher Nutzen, Aufwand unter einer Stunde.
+Priorität einer Maßnahme: **hoch** (🔴-Befund oder großer Nutzen bei kleinem Aufwand), **mittel**, **niedrig**. **Schnelle Erfolge** = hoher Nutzen, Aufwand unter einer Stunde.
 
 ## 1. Technik
 

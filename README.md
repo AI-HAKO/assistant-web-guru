@@ -18,7 +18,7 @@ Sag im Chat zum Beispiel:
 
 > Webguru, mache eine SEO der Webseite der Firma Huber Sturm (Bestatter in St. Johann in Tirol).
 
-Der Web-Guru sucht die Website, lässt dich die Adresse bestätigen, klärt kurz Ziel und Region, liest die öffentlichen Seiten und zeigt einen Bericht im Chat: Ampel für sechs Bereiche (Technik, On-Page, Inhalt, Lokal, Strukturierte Daten, Vertrauen und Branche) und die wichtigsten Maßnahmen mit fertigen Texten. Nach deinem Ja legt er den Bericht unter `@Data/assistant-web-guru/seo/<domain>/<datum>.md` ab; ein späterer Lauf vergleicht mit dem letzten Bericht.
+Der Web-Guru sucht die Website, lässt dich die Adresse bestätigen, klärt kurz Ziel und Region, liest die öffentlichen Seiten und zeigt einen Bericht im Chat: Ampel für sechs Bereiche (Technik, On-Page, Inhalt, Lokal, Strukturierte Daten, Vertrauen und Branche) und die wichtigsten Maßnahmen mit fertigen Texten. Nach deinem Ja legt er den Bericht im Projektordner unter `@Data/assistant-web-guru/seo/<domain>/<datum>.md` ab (neben `@/`, nicht darin) und committet nicht; ein späterer Lauf vergleicht mit dem letzten Bericht.
 
 Das rohe HTML liest er mit `curl`; Claude Code fragt beim ersten Aufruf nach Erlaubnis.
 
