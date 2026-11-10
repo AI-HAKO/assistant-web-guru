@@ -1,0 +1,8 @@
+name: assistant-web-guru
+version: 0.1.0
+type: assistant
+description: Assistent Web-Guru, prüft Websites auf Suchmaschinenoptimierung (SEO) mit Schwerpunkt lokale Suche und schlägt konkrete Maßnahmen vor
+requires:
+  aios: ">=0.6,<0.7"
+contents:
+  assistants: [web-guru]
